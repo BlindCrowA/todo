@@ -7,4 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "django>=5.2.5",
     "django-types>=0.22.0",
+    "djlint>=1.36.4",
 ]
